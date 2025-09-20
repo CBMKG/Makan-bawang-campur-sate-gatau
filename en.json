@@ -1,0 +1,20 @@
+
+{
+  "main_menu_title": "🤖 BENIX BOT - MAIN PANEL",
+  "main_menu_desc": "Choose the panel you want to access",
+  "public_panel": "📢 Public Panel",
+  "premium_panel": "💎 Premium Panel",
+  "music_panel": "🎶 Music Panel",
+  "bank_panel": "🏦 Bank Panel",
+  "shop_panel": "🛒 Shop Panel",
+  "ticket_panel": "🎫 Ticket Panel",
+  "select_language": "Select Language",
+  "access_denied": "❌ Access denied!",
+  "error_occurred": "❌ An error occurred!",
+  "premium_required": "🔐 Premium Access Required",
+  "enter_premium_code": "Enter Premium Code",
+  "balance": "💰 Your Balance",
+  "transfer": "💸 Transfer",
+  "set_pin": "🔒 Set PIN",
+  "check_balance": "💰 Check Balance"
+}

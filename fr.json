@@ -1,0 +1,20 @@
+
+{
+  "main_menu_title": "🤖 BENIX BOT - PANNEAU PRINCIPAL",
+  "main_menu_desc": "Choisissez le panneau auquel vous voulez accéder",
+  "public_panel": "📢 Panneau Public",
+  "premium_panel": "💎 Panneau Premium",
+  "music_panel": "🎶 Panneau Musique",
+  "bank_panel": "🏦 Panneau Banque",
+  "shop_panel": "🛒 Panneau Boutique",
+  "ticket_panel": "🎫 Panneau Ticket",
+  "select_language": "Sélectionner la langue",
+  "access_denied": "❌ Accès refusé!",
+  "error_occurred": "❌ Une erreur s'est produite!",
+  "premium_required": "🔐 Accès Premium Requis",
+  "enter_premium_code": "Entrez le Code Premium",
+  "balance": "💰 Votre Solde",
+  "transfer": "💸 Transfert",
+  "set_pin": "🔒 Définir PIN",
+  "check_balance": "💰 Vérifier Solde"
+}

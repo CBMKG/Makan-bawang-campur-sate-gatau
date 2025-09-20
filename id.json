@@ -1,0 +1,20 @@
+
+{
+  "main_menu_title": "🤖 BENIX BOT - PANEL UTAMA",
+  "main_menu_desc": "Pilih panel yang ingin Anda akses",
+  "public_panel": "📢 Panel Publik",
+  "premium_panel": "💎 Panel Premium",
+  "music_panel": "🎶 Panel Musik",
+  "bank_panel": "🏦 Panel Bank",
+  "shop_panel": "🛒 Panel Toko",
+  "ticket_panel": "🎫 Panel Tiket",
+  "select_language": "Pilih Bahasa",
+  "access_denied": "❌ Akses ditolak!",
+  "error_occurred": "❌ Terjadi kesalahan!",
+  "premium_required": "🔐 Akses Premium Diperlukan",
+  "enter_premium_code": "Masukkan Kode Premium",
+  "balance": "💰 Saldo Anda",
+  "transfer": "💸 Transfer",
+  "set_pin": "🔒 Set PIN",
+  "check_balance": "💰 Cek Saldo"
+}

@@ -1,0 +1,20 @@
+
+{
+  "main_menu_title": "🤖 BENIX BOT - 메인 패널",
+  "main_menu_desc": "접근하고 싶은 패널을 선택하세요",
+  "public_panel": "📢 공개 패널",
+  "premium_panel": "💎 프리미엄 패널",
+  "music_panel": "🎶 음악 패널",
+  "bank_panel": "🏦 은행 패널",
+  "shop_panel": "🛒 상점 패널",
+  "ticket_panel": "🎫 티켓 패널",
+  "select_language": "언어 선택",
+  "access_denied": "❌ 접근 거부!",
+  "error_occurred": "❌ 오류가 발생했습니다!",
+  "premium_required": "🔐 프리미엄 접근 필요",
+  "enter_premium_code": "프리미엄 코드 입력",
+  "balance": "💰 잔액",
+  "transfer": "💸 송금",
+  "set_pin": "🔒 PIN 설정",
+  "check_balance": "💰 잔액 확인"
+}
